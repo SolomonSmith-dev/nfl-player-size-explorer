@@ -1,0 +1,7 @@
+[app]
+title = "NFL Player Size Explorer"
+favicon = "🏈"
+
+[theme]
+logo = "https://upload.wikimedia.org/wikipedia/commons/a/a2/NFL_Logo.svg"
+color = "#1E90FF"
